@@ -1,0 +1,5 @@
+Grade_Group,Student_Count,Mean_Actual,Mean_Predicted,MAE,Mean_Residual
+Low (0-5),9,2.222,8.902,6.68,-6.68
+Below Average (6-10),29,8.483,10.045,2.556,-1.562
+Above Average (11-15),31,13.355,11.144,2.298,2.211
+High (16-20),10,17.1,11.951,5.149,5.149
